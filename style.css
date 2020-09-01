@@ -22,3 +22,9 @@ table {
     border: ivory;
     box-shadow: 2,2,indianred;
 }
+
+#bio-image {
+    width:  600px;
+    height: 450px;
+    box-align: center;
+  }
